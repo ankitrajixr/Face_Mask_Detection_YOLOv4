@@ -1,1 +1,9 @@
-
+flask==1.1.1
+numpy>=1.9.2
+scikit-learn>=0.18
+pandas>=0.19
+argparse==1.4.0
+opencv-python-headless>=4.2.0.32
+pytz
+datetime
+tensorflow>=2.5.0
